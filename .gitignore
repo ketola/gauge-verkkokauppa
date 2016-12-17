@@ -1,0 +1,9 @@
+/bin/
+/.gradle/
+/build/
+.classpath
+.gauge
+.project
+.settings
+/logs/
+/reports/
